@@ -1,3 +1,13 @@
+---
+title: Plant Disease Detection AI
+emoji: 🌿
+colorFrom: green
+colorTo: emerald
+sdk: docker
+app_port: 7860
+pinned: false
+---
+
 # Plant Disease Detection System
 
 ## Project Overview
