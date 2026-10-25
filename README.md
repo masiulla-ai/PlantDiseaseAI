@@ -10,6 +10,14 @@ pinned: false
 
 # Plant Disease Detection System
 
+[![GitHub Repo](https://img.shields.io/badge/GitHub-PlantDiseaseAI-181717?logo=github)](https://github.com/masiulla-ai/PlantDiseaseAI)
+[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Live%20Demo-blue)](https://huggingface.co/spaces/MASIULLA/plant-disease-ai)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.100%2B-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-FF6F00?logo=tensorflow&logoColor=white)](https://tensorflow.org)
+[![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
+
+> 🌿 **Live Demo Available**: [https://huggingface.co/spaces/MASIULLA/plant-disease-ai](https://huggingface.co/spaces/MASIULLA/plant-disease-ai)
+
 ## Project Overview
 The Plant Disease Detection System is a deep learning web application that classifies tomato leaf images into 10 disease and healthy-leaf categories using a Convolutional Neural Network (CNN).
 
