@@ -6,5 +6,7 @@ __pycache__/
 .git/
 .gitignore
 data/
+cloudflared.exe
+*.bat
 .pytest_cache/
 tests/
